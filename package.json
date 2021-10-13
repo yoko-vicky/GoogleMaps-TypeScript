@@ -1,0 +1,23 @@
+{
+  "name": "map-with-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yocosaka/map-with-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yocosaka/map-with-typescript/issues"
+  },
+  "homepage": "https://github.com/yocosaka/map-with-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
