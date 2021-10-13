@@ -19,5 +19,9 @@
   "homepage": "https://github.com/yocosaka/map-with-typescript#readme",
   "devDependencies": {
     "typescript": "^4.4.4"
+  },
+  "dependencies": {
+    "@types/faker": "^5.5.8",
+    "faker": "^5.5.3"
   }
 }
