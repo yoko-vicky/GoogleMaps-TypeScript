@@ -3,11 +3,11 @@
 
 
 ## About the Project
-I built this simple application that displays a user and a company locations with GoogleMap JavaScript API and TypeScript. 
+I built this simple application that displays user and company locations with GoogleMap JavaScript API and TypeScript. 
 
 - Added three classes: User, Company, customMap
 - Created an interface, 'Mappable' to use it as a type of an argument for addMarker method of CustomMap
-- User and Company classes implement 'Mappable' interface to make sure their instance object, which will be passed to addMaker method respectively as an argument, meet the interface that have location property and markerContent method
+- User and Company classes implement 'Mappable' interface to make sure their instance object, which will be passed to addMaker method respectively as an argument, meet the interface that has location property and markerContent method
 
 A list of commonly used resources that I find helpful is listed in the acknowledgments.
 
